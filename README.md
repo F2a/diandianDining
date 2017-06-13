@@ -1,6 +1,12 @@
 # 点点Dining 送餐app
 > 基于 vue、vue-router、vue-resource、webpack、eslint、better-scroll
 
+## 在线演示 
+
+<a href="https://f2a.github.io/diandianDining" target=_blank>在线演示戳我</a>（请使用chrome开发者手机演示模式预览）
+
+扫二维码在手机上查看效果更好
+<img src="https://raw.githubusercontent.com/F2a/diandianDining/master/QRcode.PNG" width="25%">
 ## 安装
 
 ``` bash
@@ -15,4 +21,3 @@ npm run build
 
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
